@@ -1,0 +1,15 @@
+C:\Users\Tynashe\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\Tynashe\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe
+C:\Users\Tynashe\source\repos\Project_2\Project_2\bin\Debug\Project_2.pdb
+C:\Users\Tynashe\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\Tynashe\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tynashe\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\Tynashe\source\repos\Project_2\Project_2\obj\Debug\Project_2.exe
+C:\Users\Tynashe\source\repos\Project_2\Project_2\obj\Debug\Project_2.pdb
+C:\Users\Tynashe\Downloads\Project_2\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\Tynashe\Downloads\Project_2\Project_2\bin\Debug\Project_2.exe
+C:\Users\Tynashe\Downloads\Project_2\Project_2\bin\Debug\Project_2.pdb
+C:\Users\Tynashe\Downloads\Project_2\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\Tynashe\Downloads\Project_2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\Tynashe\Downloads\Project_2\Project_2\obj\Debug\Project_2.exe
+C:\Users\Tynashe\Downloads\Project_2\Project_2\obj\Debug\Project_2.pdb
